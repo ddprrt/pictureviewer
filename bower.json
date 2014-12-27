@@ -1,0 +1,21 @@
+{
+  "name": "pictureviewer",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Stefan Baumgartner <sbaumg@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-galleria": "~1.4.2",
+    "jquery": "~2.1.3"
+  }
+}
